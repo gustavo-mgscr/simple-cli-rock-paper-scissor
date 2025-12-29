@@ -1,0 +1,1 @@
+int handPlayer1, handPlayer2, player1Points, player2Points;
